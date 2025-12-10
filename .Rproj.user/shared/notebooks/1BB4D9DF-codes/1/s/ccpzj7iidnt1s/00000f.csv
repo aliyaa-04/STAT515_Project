@@ -1,0 +1,6 @@
+"0","library(tidyr)"
+"0","nhanes_rq1 <- nhanes %>%"
+"0","  mutate("
+"0","    diabetes = ifelse(DIQ010 == 1, 1, 0)"
+"0","  ) %>%"
+"0","  drop_na(BMXBMI, diabetes)"

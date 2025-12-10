@@ -1,0 +1,8 @@
+"0","nhanes <- nhanes %>%"
+"0","  mutate("
+"0","    smoker_ever = case_when("
+"0","      SMQ020 == 1 ~ 1,"
+"0","      SMQ020 == 2 ~ 0,"
+"0","      TRUE        ~ NA_real_"
+"0","    )"
+"0","  )"

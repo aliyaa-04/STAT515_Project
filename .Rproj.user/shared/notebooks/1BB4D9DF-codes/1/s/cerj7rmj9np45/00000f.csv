@@ -1,0 +1,4 @@
+"0","ggplot(nhanes, aes(x = DBP_mean)) +"
+"0","  geom_histogram(bins = 30, fill = ""yellow"", color = ""black"") +"
+"0","  labs(title = ""Distribution of Mean Diastolic Blood Pressure"","
+"0","       x = ""Mean DBP (mmHg)"", y = ""Count"") + theme_minimal()"

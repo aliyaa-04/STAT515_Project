@@ -1,0 +1,4 @@
+"0","ggplot(nhanes, aes(x = LBXGH)) +"
+"0","  geom_histogram(bins = 30, fill = ""skyblue"", color = ""black"") +"
+"0","  labs(title = ""Distribution of HbA1c"","
+"0","       x = ""HbA1c (%)"", y = ""Count"") + theme_minimal()"

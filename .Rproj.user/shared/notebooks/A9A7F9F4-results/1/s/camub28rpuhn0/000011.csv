@@ -1,0 +1,2 @@
+"0","data <- read.csv(""nhanes_2021_2023_chronic_disease.csv"")"
+"0","head(data)"

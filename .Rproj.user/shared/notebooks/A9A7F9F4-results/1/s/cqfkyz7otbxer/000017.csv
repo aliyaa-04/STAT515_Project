@@ -1,0 +1,5 @@
+"0","    #| echo: false"
+"0","    ggplot(nhanes, aes(x = LBXTC)) +"
+"0","      geom_histogram(bins = 30, fill = ""pink"", color = ""black"") +"
+"0","      labs(title = ""Distribution of Total Cholesterol"","
+"0","           x = ""Total Cholesterol"", y = ""Count"") + theme_minimal()"

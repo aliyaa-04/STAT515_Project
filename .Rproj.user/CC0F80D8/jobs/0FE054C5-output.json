@@ -1,0 +1,7 @@
+[1,"==> quarto preview introduction.qmd --to html --no-watch-inputs --no-browse\n\n"]
+[1,"pandoc \n  to: html\n  output-file: introduction.html\n  standalone: true\n  title-prefix: STAT515 Project\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  toc: true\n  variables: {}\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: sandstone\n  title: Introduction\n  \n"]
+[1,"Output created: docs\\introduction.html\n\nPreparing to preview\n"]
+[1,"\n"]
+[1,"Watching files for changes\nBrowse at http://localhost:3217/introduction.html\n"]
+[1,"GET: /introduction.html\n"]
+[1,"GET: /\n"]

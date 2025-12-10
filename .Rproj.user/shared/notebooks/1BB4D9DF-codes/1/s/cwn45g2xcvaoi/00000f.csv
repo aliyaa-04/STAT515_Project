@@ -1,0 +1,5 @@
+"0","read_nhanes <- function(stub) {"
+"0","  url_full <- paste0(base, stub, "".xpt"")  # note: .xpt is lowercase"
+"0","  message(""Downloading: "", url_full)"
+"0","  read_xpt(url_full)"
+"0","}"

@@ -1,0 +1,5 @@
+"0","    #| echo: false"
+"0","    ggplot(nhanes, aes(x = SBP_mean)) +"
+"0","      geom_histogram(bins = 30, fill = ""lightyellow"", color = ""black"") +"
+"0","      labs(title = ""Distribution of Mean Systolic Blood Pressure"","
+"0","           x = ""Mean SBP (mmHg)"", y = ""Count"") + theme_minimal()"

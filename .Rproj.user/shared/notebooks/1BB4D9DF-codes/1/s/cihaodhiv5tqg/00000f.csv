@@ -1,0 +1,8 @@
+"0","demo  <- read_nhanes(""DEMO_L"") #demographics"
+"0","bmx   <- read_nhanes(""BMX_L"") #body measures"
+"0","bpxo  <- read_nhanes(""BPXO_L"") #blood pressure"
+"0","ghb   <- read_nhanes(""GHB_L"") #hbA1c"
+"0","tchol <- read_nhanes(""TCHOL_L"") #total cholesterol"
+"0","diq   <- read_nhanes(""DIQ_L"") #diabetes questionnaire "
+"0","smq   <- read_nhanes(""SMQ_L"") #smoking questionnaire "
+"0",""

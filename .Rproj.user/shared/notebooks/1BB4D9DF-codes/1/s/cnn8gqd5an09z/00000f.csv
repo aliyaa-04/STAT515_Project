@@ -1,0 +1,6 @@
+"0","ggplot(prev_bmi, aes(x = bmi_group, y = prevalence)) +"
+"0","  geom_col(fill = ""darkblue"") +"
+"0","  geom_text(aes(label = round(prevalence, 3)), vjust = -0.4) +"
+"0","  labs(title = ""Diabetes Prevalence by BMI Category"","
+"0","       x = ""BMI Category"","
+"0","       y = ""Prevalence of Diabetes"") + theme_minimal()"

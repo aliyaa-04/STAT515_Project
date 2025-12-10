@@ -1,0 +1,33 @@
+{
+    "id": "E486BE3F",
+    "path": "~/TrialProj27thAug/STAT515_Project/research_questions.qmd",
+    "project_path": "research_questions.qmd",
+    "type": "quarto_markdown",
+    "hash": "3530637104",
+    "contents": "",
+    "dirty": false,
+    "created": 1765326808022.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "13,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "2357:946",
+        "ignored_words": "dataset\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1765385668,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1765385668837,
+    "read_only": false,
+    "read_only_alternatives": []
+}

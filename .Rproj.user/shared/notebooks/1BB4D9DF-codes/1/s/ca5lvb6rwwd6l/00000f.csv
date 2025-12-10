@@ -1,0 +1,6 @@
+"0","ggplot(nhanes, aes(x = RIDAGEYR)) +"
+"0","  geom_histogram(bins = 30, fill = ""purple"", color = ""black"") +"
+"0","  labs("
+"0","    title = ""Distribution of Age (Adults Only)"","
+"0","    x = ""Age (years)"","
+"0","    y = ""Count"") + theme_minimal()"

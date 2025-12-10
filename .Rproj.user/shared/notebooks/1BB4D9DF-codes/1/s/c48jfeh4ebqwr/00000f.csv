@@ -1,0 +1,48 @@
+"0","install.packages(""haven"")"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/haven_2.5.5.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 802664 bytes (783 KB)
+"
+"2","downloaded 783 KB
+
+"
+"1","package ‘haven’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\aliya\AppData\Local\Temp\RtmpItECXp\downloaded_packages"
+"1",""
+"1","
+"
+"0","install.packages(""dplyr"")"
+"2","WARNING: Rtools is required to build R packages but is not currently installed. Please download and install the appropriate version of Rtools before proceeding:
+
+https://cran.rstudio.com/bin/windows/Rtools/
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/4.5/dplyr_1.1.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1593482 bytes (1.5 MB)
+"
+"2","downloaded 1.5 MB
+
+"
+"1","package ‘dplyr’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\aliya\AppData\Local\Temp\RtmpItECXp\downloaded_packages"
+"1",""
+"1","
+"
+"0","library(haven) # need to change from .xpt file to csv"
+"0","library(dplyr)"

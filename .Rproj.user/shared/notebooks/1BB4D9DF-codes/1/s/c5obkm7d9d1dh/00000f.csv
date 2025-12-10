@@ -1,0 +1,7 @@
+"0","nhanes_all <- demo %>%"
+"0","  left_join(bmx, by=""SEQN"") %>%"
+"0","  left_join(bpxo, by=""SEQN"") %>%"
+"0","  left_join(ghb, by=""SEQN"") %>%"
+"0","  left_join(tchol, by=""SEQN"") %>%"
+"0","  left_join(diq, by=""SEQN"") %>%"
+"0","  left_join(smq, by=""SEQN"")"

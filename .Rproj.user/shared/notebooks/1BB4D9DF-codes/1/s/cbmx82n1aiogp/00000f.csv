@@ -1,0 +1,5 @@
+"0","tree_rq2 <- tree(factor(diabetes) ~ BMXBMI + SBP_mean + DBP_mean +"
+"0","                   LBXGH + LBXTC + smoker_ever,"
+"0","                 data = log_r2)"
+"0",""
+"0","plot(tree_rq2)"

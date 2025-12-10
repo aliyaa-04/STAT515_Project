@@ -1,0 +1,2 @@
+"0","nhanes_adults <- nhanes_all %>%"
+"0","  filter(RIDAGEYR >= 20 | is.na(RIDAGEYR))"
